@@ -8,7 +8,6 @@ ____
 ## project structure:
 
     - code: "code" (folder)
-    - report: "report.pdf" (file)
     - additional info: "README.md" (file)
 
 ## code structure:
@@ -53,21 +52,3 @@ ____
       - get the data and plot
       - acquire a more detailed plot by running the command: python plot_util.py
       - acquire the validation results by adjusting the config parameters and run the command: python validation.py
-  
-## task aollcation:
-
-    - Ken Chen:
-      - project environment building
-      - project code programming
-      - project code running
-      - data and plot processing
-      - report "Result" part
-    - Pengcheng Ding:
-      - project environment building
-      - project code programming
-      - report "Methodology" part
-      - Theoretical analysis
-    - Yaohui Chen:
-      - project environment building
-      - project code programming
-      - report "Introduction","Methodlogy" part
